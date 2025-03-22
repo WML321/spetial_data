@@ -10,7 +10,7 @@ DB_CONFIG = {
     'database': 'tengxun',
     'charset': 'utf8mb4'
 }
-
+#
 # 地图默认参数
 tiles = 'https://wprd01.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=zh_cn&size=1&scl=1&style=7'
 MAP_CENTER = [32.065, 118.763]  # 南京市中心坐标（备用）
