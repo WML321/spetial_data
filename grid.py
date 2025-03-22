@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import folium
 from folium.plugins import HeatMap
 from matplotlib.font_manager import FontProperties  # 导入FontProperties
-
+#
 plt.rcParams['font.family'] = 'SimHei'
 
 # 配置信息
